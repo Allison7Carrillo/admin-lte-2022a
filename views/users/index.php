@@ -158,7 +158,7 @@
             confirmButtonColor: '#d33',
             cancelButtonColor: '#3085d6',
             confirmButtonText: 'Sí, eliminalo',
-            cancelButtonText: 'Canelar',
+            cancelButtonText: 'Cancelar',
         }).then((result) => {
             if (result.isConfirmed) {
                 Swal.fire(

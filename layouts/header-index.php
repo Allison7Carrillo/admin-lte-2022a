@@ -32,7 +32,7 @@
 
         <!-- Preloader -->
         <div class="preloader flex-column justify-content-center align-items-center">
-            <img class="animation__shake" src="./dist/img/AdminLTELogo.png" alt="AdminLTELogo" height="60" width="60">
+            <img class="animation__shake" src="../../dist/img/AdminLTELogo.png" alt="AdminLTELogo" height="60" width="60">
         </div>
 
         <!-- Navbar -->
@@ -102,7 +102,7 @@
                     <img src="./dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
                 </div>
                 <div class="info">
-                    <a href="#" class="d-block">Jonathan</a>
+                    <a href="#" class="d-block">Allison</a>
                     <a href="./login.php" class="d-block">
                         <span class="badge bg-warning">
                             <i class="fas fa-door-open mr-2"></i>Cerrar sesión
